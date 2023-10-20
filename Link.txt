@@ -1,0 +1,15 @@
+Dashboard
+
+https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FAsk%2BDashboard&action=view&mode=dashboard&subView=model0000018b411c7f0a_00000000
+
+https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FAsk1%2BDashboard&action=view&mode=dashboard&subView=model0000018b412925c6_00000000
+
+Story
+
+https://us1.ca.analytics.ibm.com/bi/?perspective=story&pathRef=.my_folders%2FAsk%2Bstory&action=view&sceneId=model0000018b41fd35f6_00000002&sceneTime=5000
+
+Exploration
+
+https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2Fsk1&subView=model0000018b3cc84c67_00000000
+
+https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FOnline%2BEducation1&subView=model0000018b3ce01fdc_00000003
